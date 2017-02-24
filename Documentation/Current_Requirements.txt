@@ -9,4 +9,7 @@ Linux (Distribution to be decided by Danny)
 GPU Support / Needs CUDA 
 
 Dependencies...
-(to be listed)
+pip install image
+pip install ipython
+pip install display
+

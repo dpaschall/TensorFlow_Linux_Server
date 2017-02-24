@@ -1,0 +1,17 @@
+Useful Websites:
+
+Linux Install Instructions Located here.
+https://www.tensorflow.org/install/install_linux
+
+Cifar10 Model, if you can run everything on this page, then TensorFlow is sufficiently setup.
+https://www.tensorflow.org/tutorials/deep_cnn
+
+Easier Model to make sure basic TensorFlow is setup.
+https://www.tensorflow.org/tutorials/mandelbrot
+
+How TensorFlow Works / Basics:
+https://www.tensorflow.org/get_started/get_started
+
+TensorBoard FAQ / Troubleshooting.
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/tensorboard/README.md
+
