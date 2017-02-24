@@ -1,0 +1,12 @@
+Apps:
+Python 3.5.x
+iPython
+TensorFlow 1.0
+
+
+Linux (Distribution to be decided by Danny)
+
+GPU Support / Needs CUDA 
+
+Dependencies...
+(to be listed)
