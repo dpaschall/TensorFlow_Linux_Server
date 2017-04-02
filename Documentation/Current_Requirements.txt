@@ -5,6 +5,7 @@ TensorFlow 1.0
 
 
 Linux (Distribution to be decided by Danny)
+Centos with Citrix ?
 
 GPU Support / Needs CUDA 
 
